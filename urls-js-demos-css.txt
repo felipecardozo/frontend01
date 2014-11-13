@@ -1,0 +1,18 @@
+
+http://tympanus.net/codrops/2013/05/02/fixed-background-scrolling-layout/
+http://tympanus.net/Blueprints/ScrollingLayout/ (navigate left and right)
+
+http://callmenick.com/2014/09/08/advanced-parallax-scrolling-effect/
+http://callmenick.com/tutorial-demos/advanced-parallax-effect/
+
+
+https://developer.mozilla.org/es/docs/Web/JavaScript/Introducci%C3%B3n_a_JavaScript_orientado_a_objetos
+
+demo online
+http://www.somewhat.cc/
+https://ihatetomatoes.net/demos/simple-responsive-parallax-website/
+http://pixelcog.com/parallax.js/
+http://themify.me/demo/#theme=parallax
+
+
+http://www.impressivewebs.com/parallax-scrolling-scripts-plugins/
