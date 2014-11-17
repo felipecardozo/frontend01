@@ -1,37 +1,20 @@
 @import "http://fonts.googleapis.com/css?family=Lato:300,400,700";
 
-.class1{
-    background-color: red;
-}
-
-.cbp-hrmenu > ul > li {
-    display: inline-block;
-    
-}
-
-.cbp-hrmenu > ul > li > a {
-    text-decoration: none;
-}
-
-.prueba1{    
-     background-color: yellow;
-}
-
 h1 {
     font-family: Proximanova Bold,Helvetica,Arial,sans-serif;
 }
 
 p {
-    font-family: Proximanova Regular,Helvetica,Arial,sans-serif;
+    font-family: Proximanova Bold,Helvetica,Arial,sans-serif;
 }
 
 nav {
-    color: #006600;
+    color: rgb(0,0,0);
 }
 
 nav ul{
     text-align: center;
-    
+    padding: 5px 0;
 }
 
 nav > .list > ul > li > a {
@@ -41,12 +24,12 @@ nav > .list > ul > li > a {
     display: inline-block;
     font-size: 12px;
     padding: 0px 25px;
-    color: #383838;
+    color: rgb(0,0,0);
 }
 
 nav > .list > ul > li > a > p {
     text-transform: uppercase;
-    color: #383838;
+    color: rgb(0,0,0);
 }
 
 nav > .list > ul > li {
@@ -60,4 +43,24 @@ nav .list ul li:first-child a{
 nav > .list > h1 {
     text-align: center;
     font-size: 100%;
+}
+
+.list.fixed{
+    left: 0;
+    position: fixed;
+    top: 0;
+}
+.list.fixed.light{
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 100%;
+}
+
+section div {
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+section div p {
+    text-align: justify;
 }
