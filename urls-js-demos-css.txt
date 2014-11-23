@@ -16,3 +16,10 @@ http://themify.me/demo/#theme=parallax
 
 
 http://www.impressivewebs.com/parallax-scrolling-scripts-plugins/
+https://ihatetomatoes.net/demos/parallax-scroll-effect-part-2/
+
+http://learn.jquery.com/about-jquery/how-jquery-works/
+http://api.jquery.com/mouseover/
+
+SIMPLE demo
+http://codetheory.in/change-active-state-links-sticky-navigation-scroll/

@@ -27,6 +27,10 @@ nav > .list > ul > li > a {
     color: rgb(0,0,0);
 }
 
+nav > .list > ul > li > a.bold {
+    font-weight: bold;
+}
+
 nav > .list > ul > li > a > p {
     text-transform: uppercase;
     color: rgb(0,0,0);
@@ -43,6 +47,10 @@ nav .list ul li:first-child a{
 nav > .list > h1 {
     text-align: center;
     font-size: 100%;
+}
+
+a.active {
+  border-bottom: 2px solid #ecf0f1;
 }
 
 .list.fixed{
