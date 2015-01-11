@@ -63,6 +63,12 @@ footer div a {
         color:#C0C0C0;
 }
 
+footer div a ul {
+    padding-bottom: 50px;
+    position: relative;
+}
+
 div ul li {
     list-style: none;
+    margin: 0;
 }
