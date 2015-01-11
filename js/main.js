@@ -14,14 +14,10 @@ $(document).ready(function () {
             
             var top = $(this).offset().top - nav_heght,
                 bottom = top + $(this).outerHeight();
-            console.log(top + " > " + bottom );
-            //console.log($(this).outerHeight);
-            if( cur_pos >= top && cur_pos <= bottom ){
+            
+            if( cur_pos+100 >= top && cur_pos+100 <= bottom ){
                 nav.find('a > p').removeClass('active');
-                //sections.removeClass('active');
                 
-                //$(this).addClass('active');
-                //console.log("$(this)", "a[href=#"+$(this).attr("id")+"] p");
                 nav.find("a[href=#"+$(this).attr("id")+"] p" ).addClass("active");
             }
             

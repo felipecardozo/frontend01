@@ -73,3 +73,18 @@ section div {
 section div p {
     text-align: justify;
 }
+
+footer{
+    color: #a6a6a6;
+    font-family: Proximanova Bold,Helvetica,Arial,sans-serif;
+    font-size: 0.75em;
+}
+
+.content-wrapper{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 30px;
+}
+
+
+
