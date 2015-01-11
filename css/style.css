@@ -1,18 +1,64 @@
 @import "http://fonts.googleapis.com/css?family=Lato:300,400,700";
 
-.class1{
-    background-color: red;
+nav > div > h1> a{
+    text-align: center;
+    color: #000000;
+    text-decoration: none;    
 }
 
-.cbp-hrmenu > ul > li {
+.panel {
+    position: fixed;
+    background: rgba(100,255,0,0.7);
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 8888;
+}
+
+nav h1 {
+    text-align: center; 
+    font-size:170%;
+}
+
+nav ul{
+    text-align: center;
+    font-size:15px; 
+}
+
+nav ul li{
     display: inline-block;
-    
+    padding: 30px;
 }
 
-.cbp-hrmenu > ul > li > a {
+nav ul li a p{
+    display: inline-block;
+    padding: 20px;
+    color: #404040;  
+}
+
+nav ul a {
     text-decoration: none;
 }
 
-.prueba1{    
-     background-color: yellow;
+section div p {
+    font-size:15px;
+    text-align: justify;
+    line-height: 25px;
+}
+
+.nosube{
+    padding-top: 240px;
+    padding-left: 200px;
+    padding-right: 200px;   
+}
+
+footer div{
+    padding-left: 200px;
+    padding-right: 200px; 
+    background-color:#000000;
+    color:#C0C0C0;
+}
+
+footer div a {
+        color:#C0C0C0;
 }
