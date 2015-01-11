@@ -62,3 +62,7 @@ footer div{
 footer div a {
         color:#C0C0C0;
 }
+
+div ul li {
+    list-style: none;
+}
